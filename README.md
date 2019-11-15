@@ -59,4 +59,4 @@ The resources below were used for this project:
 
 4. Configure 000-default.conf to redirect request from HTTP to HTTPS: https://www.namecheap.com/support/knowledgebase/article.aspx/9821/38/apache-redirect-to-https
 
-5. Suggested changes to videogames.py to open fb_client_secrets.json:https://stackoverflow.com/questions/44742566/wsgi-cant-find-file-in-same-directory-in-app
+5. Suggested changes to videogames.py to open fb_client_secrets.json: https://stackoverflow.com/questions/44742566/wsgi-cant-find-file-in-same-directory-in-app
